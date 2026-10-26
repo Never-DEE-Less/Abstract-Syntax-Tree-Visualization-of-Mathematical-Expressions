@@ -59,3 +59,8 @@ Input: log(175)+2*(5*17)!-sin(x)-cot(y)+exp(10)+cosec(90)
 ## Conclusion
 
  <div align="justify"> This research work introduces an efficient and accurate approach to mathematical expression recognition and evaluation. The combination of Recursive Descent Parsing and AST ensures reliability, and the integration of graph visualization enhances understanding. The project's success in handling complex expressions and providing insightful visualizations showcases its potential for diverse applications. </div>
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
